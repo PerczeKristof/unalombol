@@ -1,0 +1,7 @@
+_English-Guide_
+
+yes - igen
+no - nem
+you - te
+they - ők
+we - mi
