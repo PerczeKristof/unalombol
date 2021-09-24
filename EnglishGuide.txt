@@ -14,3 +14,14 @@ When
 Why
 Where
 What time
+
+Verbs List
+
+Base form   past simple
+
+be           was/were
+break        broke
+buy          bought
+can          could
+choose        chose
+catch          caught
