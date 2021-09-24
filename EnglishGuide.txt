@@ -5,3 +5,12 @@ no - nem
 you - te
 they - ők
 we - mi
+
+"Wh" quietion:
+
+What
+Where
+When
+Why
+Where
+What time
